@@ -1,6 +1,6 @@
 ---
 title: "Absentee Voting"
-date: 2020-08-15T16:00
+date: 2020-08-17T13:01
 ---
 
 Registered voters do not need a reason when requesting an absentee ballot. However, each application must meet the following requirements:
@@ -17,7 +17,6 @@ If you have a physical disability or are living outside of Athens-Clarke county 
 ## Submit Your Application
 
 ### By mail:
-
 ACC Board of Elections
 P.O. Box 1828
 Athens, GA 30603
@@ -45,8 +44,7 @@ Allow at least 5 days ([or more](https://www.washingtonpost.com/local/md-politic
 2. Return your ballot to your county elections office.
 3. Drop it in a secure drop box that your county elections office set up.
 
-### Secure Drop Boxes:
-
+### Secure Drop Box Locations:
 - Athens-Clarke County Elections Office - 155 E Washington Street, Athens, GA 30601
 - Athens-Clarke County Library - 2025 Baxter Street; Athens, GA 30601
 - Athens-Clarke County Multimodal Transportation Center - 775 E Broad Street, Athens, GA 30601

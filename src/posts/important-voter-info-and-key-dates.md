@@ -1,6 +1,6 @@
 ---
 title: "Voter Information & Key Dates"
-date: 2020-08-15T16:00
+date: 2020-08-17T13:00
 ---
 ## Check your Voter Registration
 

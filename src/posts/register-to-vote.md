@@ -1,6 +1,6 @@
 ---
 title: "Register to Vote"
-date: 2020-08-15T16:00
+date: 2020-08-17T13:00
 ---
 
 The deadline to register for the 2020 General Election is **October 5, 2020**.
