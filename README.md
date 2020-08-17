@@ -1,7 +1,7 @@
 # Athens, Georgia Voter Information Site
 
-Stay aware. Be informed. It is our duty at U.S. citizens to look after our democracy and to never take it for granted.
+Stay aware. Be informed. Practice your rights.
 
-Practice your rights. 
+It is our duty at U.S. citizens to look after our democracy and to never take it for granted.
 
-Built with Max Böeck's Emergency Site Kit.
+Built using [Max Böck's Emergency Site Kit](https://github.com/maxboeck/emergency-site).
